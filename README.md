@@ -6,11 +6,12 @@
 <h3 align="center">A Computer Engineering Student, passionate developer</h3>
 
 
-
+<br />
   -I’m currently working on **React**
 
   -I’m currently learning **Frameworks, AI, Machine Learning**
-
+<br />
+<br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oguzicin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oguzicin" height="30" width="40" /></a>
