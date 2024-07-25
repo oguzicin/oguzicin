@@ -1,6 +1,8 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)
+
 <h1 align="center">Hi There, I'm Oguz</h1>
 <h3 align="center">A Computer Engineering Student, passionate developer</h3>
+
 
 
   -I’m currently working on **React**
@@ -20,3 +22,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oguzicin&show_icons=true&locale=en" alt="oguzicin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzicin&" alt="oguzicin" /></p>
+
+
+
+
+
+![Hello](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
