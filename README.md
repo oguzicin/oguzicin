@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oguz</h1>
 <h3 align="center">A passionate developer from Istanbul</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzicin&label=Profile%20views&color=0e75b6&style=flat" alt="oguzicin" /> </p>
+
 
 - 🔭 I’m currently working on **React**
 
@@ -24,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oguzicin&show_icons=true&locale=en" alt="oguzicin" /></p>
 <br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzicin&" alt="oguzicin" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzicin&label=Profile%20views&color=0e75b6&style=flat" alt="oguzicin" /> </p>
