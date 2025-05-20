@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Oguz</h1>
+<h1 align="center">Hi , I'm Oguz</h1>
 <h3 align="center">A passionate developer from Istanbul</h3>
 
 
 
-- 🔭 I’m currently working on **React**
+-  I’m currently working on **React**
 
-- 🌱 I’m currently learning **Data Mining,Docker,Machine Learning**
+-  I’m currently learning **Data Mining,Docker,Machine Learning**
 
-- 👨‍💻 All of my projects are available at [oguzicin.com](oguzicin.com)
+-  All of my projects are available at [oguzicin.com](oguzicin.com)
 
-- 📫 How to reach me **oguzicin@gmail.com**
+-  How to reach me **oguzicin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
