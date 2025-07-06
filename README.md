@@ -1,15 +1,15 @@
 <h1 align="left">Hi, I'm Oguz</h1>
-<h3 align="left">A Computer Engineering Student, passionate developer </h3>
+<h3 align="left">Engineer by study, developer by heart</h3>
 
 
 
--  I’m currently working on **React**
+-  Learning how machines learn... so they don’t replace me later  
 
--  I’m currently learning **Data Mining,Docker,Machine Learning**
+-  Currently feeding my brain with **Data Mining**, **Docker**, and **ML**
 
 -  All of my projects are available at [oguzicin.com](oguzicin.com)
 
--  How to reach me **oguzicin@gmail.com**
+-  Reach out, collaborate, or just say hi: **oguzicin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
