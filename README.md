@@ -79,27 +79,27 @@
 ## Tools I Use
 
 <div align="left">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="10" alt="C++" />
 <img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="10" alt="Docker" />
 <img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="10" alt="Java" />
 <img width="12" />
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" alt="OpenCV" />
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="10" alt="OpenCV" />
 <img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="10" alt="Pandas" />
 <img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="10" alt="Python" />
 <img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" alt="React" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="10" alt="React" />
 <img width="12" />
-<img src="https://reactnative.dev/img/header_logo.svg" height="40" alt="React Native" />
+<img src="https://reactnative.dev/img/header_logo.svg" height="10" alt="React Native" />
 <img width="12" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit Learn" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="10" alt="Scikit Learn" />
 <img width="12" />
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="TensorFlow" />
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="10" alt="TensorFlow" />
 <img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="10" alt="TypeScript" />
 
 </div>
 
