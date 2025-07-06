@@ -65,10 +65,12 @@
 
 ## About Me
 
-- Creating apps since 2022  
-- Currently exploring Swift, UIKit & SwiftUI  
-- Goal: Build well-designed, high-performance mobile apps  
-- Previously coded with Flutter
+- Creating web & AI apps since 2022  
+- Currently exploring Flask, machine learning, and React TypeScript
+- Goal: Build scalable, user-friendly full-stack applications  
+- Previously worked with robotics and computer vision using React
+
+
 
   
 
