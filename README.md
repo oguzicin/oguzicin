@@ -79,8 +79,7 @@
 ## Tools I Use
 
 <div align="left">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="10" width="40" alt="C++" />
-<img width="12" />
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="10" width="40" alt="Docker" />
 <img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="10" width="40" alt="Java" />
@@ -100,6 +99,14 @@
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="10" width="40" alt="TensorFlow" />
 <img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="10" width="40" alt="TypeScript" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="40"  />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="10" width="40" alt="C++" />
 
 </div>
 
