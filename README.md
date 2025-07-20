@@ -30,7 +30,9 @@
 
 <img src="https://github.com/oguzicin/my-portfolio-latest/blob/main/src/assets/project2.png" width="80%"/>
 
-**Fix Your Sleep** is designed to help you build healthier sleep habits. Set bedtime goals, receive reminders, and improve your nighttime routine. 
+This application is designed to detect and recognize license plate numbers from vehicle images. By combining object detection and Optical Character Recognition (OCR), the app automates the identification of license plates, which can be used in various smart traffic or parking systems.
+
+It provides a clean interface for uploading images, processes them using a Flask backend, and highlights the recognized plate with bounding boxes and predicted text.
 
 ---
 
@@ -45,7 +47,7 @@
 </p>
 
 
-**Fix Your Sleep** is designed to help you build healthier sleep habits. Set bedtime goals, receive reminders, and improve your nighttime routine. 
+This application is designed to analyze written text by predicting its likely author and tagging it with relevant keywords that summarize its topic. It’s built for students, researchers, and content analysts interested in authorship attribution and topic modeling.Users can paste any piece of text into the input box and click submit. The backend processes the text and returns a predicted author, along with a confidence score.
 
 ---
 
@@ -56,7 +58,7 @@
 
 <img src="https://github.com/oguzicin/my-portfolio-latest/blob/main/src/assets/project1.png" width="80%"/>
 
-**Fix Your Sleep** is designed to help you build healthier sleep habits. Set bedtime goals, receive reminders, and improve your nighttime routine. 
+This application is designed to provide a user-friendly control interface for manipulating the Tool Center Point (TCP) of a robotic arm in six degrees of freedom (X, Y, Z, RX, RY, RZ). It enables engineers, robotics students, and automation developers to interact with robot coordinate systems visually and intuitively, allowing fine-tuned motion commands and real-time positional feedback. 
 
 ---
 
