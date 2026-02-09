@@ -28,12 +28,16 @@
 [Live Demo](https://job-tracker-zeta-rose.vercel.app/)
 
 <p align="left" >
-<img src="https://github.com/oguzicin/job-tracker/blob/main/client/src/assets/jatdash.png" width="30%"/>
-<img src="https://github.com/oguzicin/job-tracker/blob/main/client/src/assets/jatland.png" width="30%"/>
+<img src="https://github.com/oguzicin/job-tracker/blob/main/client/src/assets/jatland.png" width="50%"/>
+<img src="https://github.com/oguzicin/job-tracker/blob/main/client/src/assets/jatdash.png" width="50%"/>
 </p>
 
 
-This application is designed to analyze written text by predicting its likely author and tagging it with relevant keywords that summarize its topic. It’s built for students, researchers, and content analysts interested in authorship attribution and topic modeling.Users can paste any piece of text into the input box and click submit. The backend processes the text and returns a predicted author, along with a confidence score.
+This application is designed to help users track and manage their job applications in an organized and efficient way. Users can create, update, and delete job entries while monitoring the status of each application throughout the recruitment process.
+
+The system allows users to record key details such as company name, position, application status, location, and job type. A secure authentication system ensures that each user can access and manage only their own data. The application is built to simplify the job search process by providing a clear overview of all applications in one centralized dashboard.
+
+Enables users to manage their job search process efficiently. It features user authentication with JWT, protected routes, and a RESTful API for handling job application data. Users can perform CRUD operations on job entries, update application statuses, and sort or filter applications through a responsive frontend interface.
 
 ---
 ### Plate Recognition
