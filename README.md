@@ -28,8 +28,8 @@
 [Live Demo](https://job-tracker-zeta-rose.vercel.app/)
 
 <p align="left" >
-<img src="https://github.com/oguzicin/job-tracker/blob/main/client/src/assets/jatland.png" width="50%"/>
-<img src="https://github.com/oguzicin/job-tracker/blob/main/client/src/assets/jatdash.png" width="50%"/>
+<img src="https://github.com/oguzicin/job-tracker/blob/main/client/src/assets/jatland.png" width="40%"/>
+<img src="https://github.com/oguzicin/job-tracker/blob/main/client/src/assets/jatdash.png" width="40%"/>
 </p>
 
 
