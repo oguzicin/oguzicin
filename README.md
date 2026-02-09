@@ -35,7 +35,20 @@ This application is designed to detect and recognize license plate numbers from 
 It provides a clean interface for uploading images, processes them using a Flask backend, and highlights the recognized plate with bounding boxes and predicted text.
 
 ---
+### Job Application Tracker
 
+[GitHub Repo](https://job-tracker-zeta-rose.vercel.app/)
+
+<p align="left" >
+<img src="https://github.com/oguzicin/Data-Mining-Project/blob/main/dm1.png" width="30%"/>
+<img src="https://github.com/oguzicin/Data-Mining-Project/blob/main/dm2.png" width="30%"/>
+<img src="https://github.com/oguzicin/Data-Mining-Project/blob/main/dm3.png" width="30%"/>
+</p>
+
+
+This application is designed to analyze written text by predicting its likely author and tagging it with relevant keywords that summarize its topic. It’s built for students, researchers, and content analysts interested in authorship attribution and topic modeling.Users can paste any piece of text into the input box and click submit. The backend processes the text and returns a predicted author, along with a confidence score.
+
+---
 ### Data Mining
 
 [GitHub Repo](https://github.com/oguzicin/Data-Mining-Project)
