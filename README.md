@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Oguz</h1>
-<h3 align="left">Engineer by study, developer by heart</h3>
+<h3 align="left">Engineer by study, developer by heart.</h3>
 
 
 
