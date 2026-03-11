@@ -7,7 +7,7 @@
 
 -  Currently feeding my brain with **Data Mining**, **Docker**, and **ML**
 
--  All of my projects are available at [oguzicin.com](oguzicin.com)
+-  All of my projects are available at [oguzicin.com](https://oguzicin.com)
 
 -  Reach out, collaborate, or just say hi: **oguzicin@gmail.com**
 
