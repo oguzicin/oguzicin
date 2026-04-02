@@ -83,7 +83,7 @@ This application is designed to provide a user-friendly control interface for ma
 
 ## About Me
 
-- Creating web & AI apps since 2022  
+- Creating web & AI apps  
 - Currently exploring Flask, machine learning, and React TypeScript
 - Goal: Build scalable, user-friendly full-stack applications  
 - Previously worked with robotics and computer vision using React
