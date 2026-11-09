@@ -3,7 +3,6 @@
 
 
 
--  Learning how machines learn... so they don’t replace me later  
 
 -  Currently feeding my brain with **Data Mining**, **Docker**, and **ML**
 
