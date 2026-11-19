@@ -1,150 +1,88 @@
-# Hi, I'm Oguz 👋
+<h1 align="center">Hi, I'm Oguz</h1>
 
-### Engineer by study, developer by heart.
-
-I enjoy building software that combines thoughtful engineering with practical, user-focused experiences. My interests span full-stack development, backend systems, machine learning, and computer vision.
-
-- Currently exploring **Data Mining, Docker, and Machine Learning**
-- Building projects around **software engineering, web technologies, and AI**
-- Portfolio: [oguzicin.com](https://oguzicin.com)
-- Contact: **[oguzicin@gmail.com](mailto:oguzicin@gmail.com)**
-
-### Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/oguzicin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:oguzicin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://oguzicin.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
+<p align="center">
+  <i>Engineer by study, developer by heart.</i>
 </p>
 
----
-
-## Featured Projects
-
-### 01. Job Application Tracker
-
-**[Live Demo](https://job-tracker-zeta-rose.vercel.app/)** · **[GitHub Repository](https://github.com/oguzicin/job-tracker)**
-
-<p align="left">
-  <img src="https://github.com/oguzicin/job-tracker/blob/main/client/src/assets/jatland.png" width="48%" alt="Job Application Tracker landing page"/>
-  <img src="https://github.com/oguzicin/job-tracker/blob/main/client/src/assets/jatdash.png" width="48%" alt="Job Application Tracker dashboard"/>
+<p align="center">
+  <a href="https://oguzicin.com"><img src="https://img.shields.io/badge/portfolio-oguzicin.com-24292f?style=flat-square&logo=safari&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/oguzicin"><img src="https://img.shields.io/badge/LinkedIn-oguzicin-24292f?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:oguzicin@gmail.com"><img src="https://img.shields.io/badge/email-oguzicin@gmail.com-24292f?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-A centralized platform for organizing and tracking job applications throughout the recruitment process.
+<br/>
 
-- JWT-based authentication and protected routes
-- RESTful API with complete CRUD operations
-- Application status management and filtering
-- Responsive dashboard for tracking application progress
+## About
 
-### 02. License Plate Recognition
+I build web and AI applications. I'm a Computer Engineering student in Istanbul who likes taking an idea from model or prototype all the way to a polished, usable product.
 
-**[GitHub Repository](https://github.com/oguzicin/license-plate-recognition)**
+- 🛠️ Building scalable, user-friendly full-stack apps
+- 🧠 Currently exploring **Data Mining**, **Docker** and **machine learning**
+- 🤖 Background in robotics interfaces and computer vision
+- 📬 Open to collaborations. Say hi anytime
 
-<p align="left">
-  <img src="https://github.com/oguzicin/my-portfolio-latest/blob/main/src/assets/project2.png" width="70%" alt="License Plate Recognition interface"/>
+<br/>
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,postgres,sqlite,electron,bun&perline=9" alt="Web"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,flask,pandas,docker,java,cpp&perline=9" alt="AI and tooling"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vercel&perline=4" alt="Design and tools"/>
 </p>
 
-An image-processing application that combines object detection and Optical Character Recognition (OCR) to identify vehicle license plates.
+<br/>
 
-- Image upload and processing through a Flask backend
-- Automated license plate detection
-- OCR-based text recognition
-- Bounding-box visualization and prediction results
+## Projects
 
-### 03. Data Mining
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Job Application Tracker</h3>
+      <p>Track every application in one dashboard: company, role, status, location and job type. JWT auth, protected routes, a RESTful API, and per-user data isolation.</p>
+      <p><sub><b>React · Node · REST · JWT</b></sub></p>
+      <p><a href="https://job-tracker-zeta-rose.vercel.app/">Live demo</a> · <a href="https://github.com/oguzicin/job-tracker">Code</a></p>
+      <img src="https://raw.githubusercontent.com/oguzicin/job-tracker/main/client/src/assets/jatdash.png" alt="Job Tracker dashboard"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>License Plate Recognition</h3>
+      <p>Detects plates in vehicle images by combining object detection with OCR. Upload an image and get bounding boxes plus the predicted plate text. Useful for smart traffic and parking systems.</p>
+      <p><sub><b>Python · Flask · OpenCV · OCR</b></sub></p>
+      <p><a href="https://github.com/oguzicin/license-plate-recognition">Code</a></p>
+      <img src="https://raw.githubusercontent.com/oguzicin/my-portfolio-latest/main/src/assets/project2.png" alt="Plate recognition"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Authorship Attribution</h3>
+      <p>Paste any text and get a predicted author with a confidence score, plus keywords summarizing the topic. Built for students, researchers and content analysts.</p>
+      <p><sub><b>Python · NLP · Data Mining</b></sub></p>
+      <p><a href="https://github.com/oguzicin/Data-Mining-Project">Code</a></p>
+      <img src="https://raw.githubusercontent.com/oguzicin/Data-Mining-Project/main/dm1.png" alt="Authorship attribution"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>TCP Robot Control Interface</h3>
+      <p>A visual interface for controlling a robotic arm's Tool Center Point in six degrees of freedom (X, Y, Z, RX, RY, RZ), with fine-tuned motion commands and real-time positional feedback.</p>
+      <p><sub><b>React · TypeScript · Robotics</b></sub></p>
+      <p><a href="https://github.com/oguzicin/React-Robot-Interface">Code</a></p>
+      <img src="https://raw.githubusercontent.com/oguzicin/my-portfolio-latest/main/src/assets/project1.png" alt="Robot control interface"/>
+    </td>
+  </tr>
+</table>
 
-**[GitHub Repository](https://github.com/oguzicin/Data-Mining-Project)**
+<p align="center"><a href="https://oguzicin.com">See everything at oguzicin.com →</a></p>
 
-<p align="left">
-  <img src="https://github.com/oguzicin/Data-Mining-Project/blob/main/dm1.png" width="31%" alt="Data Mining interface"/>
-  <img src="https://github.com/oguzicin/Data-Mining-Project/blob/main/dm2.png" width="31%" alt="Data Mining results"/>
-  <img src="https://github.com/oguzicin/Data-Mining-Project/blob/main/dm3.png" width="31%" alt="Data Mining analysis"/>
-</p>
-
-A text analysis application focused on authorship attribution and topic modeling.
-
-- Predicts the likely author of a given text
-- Generates relevant keywords to summarize content
-- Provides prediction confidence scores
-- Combines data mining techniques with an interactive interface
-
-### 04. TCP Robot Control Interface
-
-**[GitHub Repository](https://github.com/oguzicin/React-Robot-Interface)**
-
-<p align="left">
-  <img src="https://github.com/oguzicin/my-portfolio-latest/blob/main/src/assets/project1.png" width="70%" alt="TCP Robot Control Interface"/>
-</p>
-
-A visual control interface for manipulating a robotic arm's Tool Center Point (TCP) across six degrees of freedom.
-
-- Six-axis control: X, Y, Z, RX, RY, RZ
-- Interactive coordinate manipulation
-- Visual feedback for positional adjustments
-- Designed for intuitive robot control and automation workflows
-
----
-
-## About Me
-
-I'm interested in the engineering behind reliable, scalable, and user-friendly software.
-
-My experience and interests include:
-
-- Full-stack web application development
-- Backend architecture and RESTful API design
-- Machine learning and data mining
-- Computer vision and image processing
-- Robotics and interactive control systems
-
-**Current focus:** Expanding my knowledge of backend engineering, Docker, and machine learning while building practical software projects.
-
----
-
-## Tech Stack & Tools
-
-**Languages**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts" height="40" alt="Programming languages"/>
-</p>
-
-**Frontend & Backend**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,flask" height="40" alt="Frontend and backend technologies"/>
-</p>
-
-**Data Science & Machine Learning**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,sklearn" height="40" alt="Machine learning technologies"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
-</p>
-
-**Tools & Platforms**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,figma,vscode" height="40" alt="Development tools"/>
-</p>
-
----
+<br/>
 
 ## GitHub Activity
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=oguzicin&theme=blueberry_duo&hide_border=true" alt="GitHub Streak"/>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=oguzicin&show_icons=true&hide_border=true&bg_color=00000000&title_color=8b949e&icon_color=8b949e&text_color=8b949e" alt="GitHub stats"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzicin&layout=compact&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=8b949e" alt="Top languages"/>
 </p>
 
----
-
 <p align="center">
-  <i>Always learning, always building.</i>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=oguzicin&theme=transparent&hide_border=true&ring=8b949e&fire=8b949e&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=6e7681" alt="GitHub streak"/>
 </p>
