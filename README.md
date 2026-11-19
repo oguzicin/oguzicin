@@ -1,134 +1,103 @@
-<h1 align="left">Hi, I'm Oguz</h1>
-<h3 align="left">Engineer by study, developer by heart.</h3>
-
-
-
-
--  Currently feeding my brain with **Data Mining**, **Docker**, and **ML**
-
--  All of my projects are available at [oguzicin.com](https://oguzicin.com)
-
--  Reach out, collaborate, or just say hi: **oguzicin@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href=https://www.linkedin.com/in/oguzicin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-
-</p>
-
-
----
-
-## My Projects
-### Job Application Tracker
-
-[Live Demo](https://job-tracker-zeta-rose.vercel.app/)
-
-<p align="left" >
-<img src="https://github.com/oguzicin/job-tracker/blob/main/client/src/assets/jatland.png" width="40%"/>
-<img src="https://github.com/oguzicin/job-tracker/blob/main/client/src/assets/jatdash.png" width="40%"/>
-</p>
-
-
-This application is designed to help users track and manage their job applications in an organized and efficient way. Users can create, update, and delete job entries while monitoring the status of each application throughout the recruitment process.
-
-The system allows users to record key details such as company name, position, application status, location, and job type. A secure authentication system ensures that each user can access and manage only their own data. The application is built to simplify the job search process by providing a clear overview of all applications in one centralized dashboard.
-
-Enables users to manage their job search process efficiently. It features user authentication with JWT, protected routes, and a RESTful API for handling job application data. Users can perform CRUD operations on job entries, update application statuses, and sort or filter applications through a responsive frontend interface.
-
----
-### Plate Recognition
-
-[GitHub Repo](https://github.com/oguzicin/license-plate-recognition)
-
-<img src="https://github.com/oguzicin/my-portfolio-latest/blob/main/src/assets/project2.png" width="70%"/>
-
-This application is designed to detect and recognize license plate numbers from vehicle images. By combining object detection and Optical Character Recognition (OCR), the app automates the identification of license plates, which can be used in various smart traffic or parking systems.
-
-It provides a clean interface for uploading images, processes them using a Flask backend, and highlights the recognized plate with bounding boxes and predicted text.
-
----
-
-### Data Mining
-
-[GitHub Repo](https://github.com/oguzicin/Data-Mining-Project)
-
-<p align="left" >
-<img src="https://github.com/oguzicin/Data-Mining-Project/blob/main/dm1.png" width="30%"/>
-<img src="https://github.com/oguzicin/Data-Mining-Project/blob/main/dm2.png" width="30%"/>
-<img src="https://github.com/oguzicin/Data-Mining-Project/blob/main/dm3.png" width="30%"/>
-</p>
-
-
-This application is designed to analyze written text by predicting its likely author and tagging it with relevant keywords that summarize its topic. It’s built for students, researchers, and content analysts interested in authorship attribution and topic modeling.Users can paste any piece of text into the input box and click submit. The backend processes the text and returns a predicted author, along with a confidence score.
-
----
-
-### TCP Robot Control Interface
-
-[GitHub Repo](https://github.com/oguzicin/React-Robot-Interface)
-
-
-<img src="https://github.com/oguzicin/my-portfolio-latest/blob/main/src/assets/project1.png" width="70%"/>
-
-This application is designed to provide a user-friendly control interface for manipulating the Tool Center Point (TCP) of a robotic arm in six degrees of freedom (X, Y, Z, RX, RY, RZ). It enables engineers, robotics students, and automation developers to interact with robot coordinate systems visually and intuitively, allowing fine-tuned motion commands and real-time positional feedback. 
-
----
-
-<br />
-
-
-## About Me
-
-- Creating web & AI apps  
-- Currently exploring Flask, machine learning, and React TypeScript
-- Goal: Build scalable, user-friendly full-stack applications  
-- Previously worked with robotics and computer vision using React
-
-
-
-  
-
-
-
-
-
-## Tools I Use
-
 <div align="left">
+  <h1>Hi, I'm Oğuz</h1>
+  <h3>Engineer by study, developer by heart.</h3>
+  <p>
+    Building scalable, user-friendly full-stack web & AI applications. Previously built React interfaces for industrial robotics and computer vision pipelines.
+  </p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="10" width="40" alt="Docker" />
-<img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="10" width="40" alt="Java" />
-<img width="12" />
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="10" width="40" alt="OpenCV" />
-<img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="10" width="40" alt="Pandas" />
-<img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="10" width="40" alt="Python" />
-<img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="10" width="40" alt="React" />
-<img width="12" />
-<img src="https://reactnative.dev/img/header_logo.svg" height="10" width="40" alt="React Native" />
-<img width="12" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="10" width="40" alt="Scikit Learn" />
-<img width="12" />
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="10" width="40" alt="TensorFlow" />
-<img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="10" width="40" alt="TypeScript" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="40"  />
-<img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="10" width="40" alt="C++" />
-
+  <p>
+    <a href="https://oguzicin.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-oguzicin.com-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/oguzicin" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:oguzicin@gmail.com">
+      <img src="https://img.shields.io/badge/Email-oguzicin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
 
-## GitHub Streak
+---
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=elifbilgep&theme=blueberry_duo" />
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Job Application Tracker</h4>
+      <p>
+        <a href="https://job-tracker-zeta-rose.vercel.app/">Live Demo</a> • 
+        <a href="https://github.com/oguzicin/job-tracker">Source</a>
+      </p>
+      <img src="https://github.com/oguzicin/job-tracker/blob/main/client/src/assets/jatdash.png?raw=true" alt="Job Application Tracker Dashboard" width="100%" />
+      <p>
+        Full-stack recruitment tracker with JWT authentication, protected routes, CRUD operations, and real-time filtering across application stages.
+      </p>
+      <p><code>React</code> <code>TypeScript</code> <code>Express</code> <code>PostgreSQL</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Author Classification & Text Tagging</h4>
+      <p>
+        <a href="https://github.com/oguzicin/Data-Mining-Project">GitHub Repo</a>
+      </p>
+      <img src="https://github.com/oguzicin/Data-Mining-Project/blob/main/dm1.png?raw=true" alt="Data Mining Project" width="100%" />
+      <p>
+        NLP web app predicting authorship attribution with confidence scores and extracting topic keywords from pasted text using ML and deep learning.
+      </p>
+      <p><code>Python</code> <code>Flask</code> <code>Scikit-learn</code> <code>React</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>License Plate Recognition</h4>
+      <p>
+        <a href="https://github.com/oguzicin/license-plate-recognition">GitHub Repo</a>
+      </p>
+      <img src="https://github.com/oguzicin/my-portfolio-latest/blob/main/src/assets/project2.png?raw=true" alt="License Plate Recognition" width="100%" />
+      <p>
+        Automated vehicle plate detection and OCR pipeline with a web interface that highlights bounding boxes and extracted plate numbers.
+      </p>
+      <p><code>Python</code> <code>OpenCV</code> <code>OCR</code> <code>Flask</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>TCP Robot Interface</h4>
+      <p>
+        <a href="https://github.com/oguzicin/React-Robot-Interface">GitHub Repo</a>
+      </p>
+      <img src="https://github.com/oguzicin/my-portfolio-latest/blob/main/src/assets/project1.png?raw=true" alt="TCP Robot Interface" width="100%" />
+      <p>
+        Visual 6-DOF (X, Y, Z, RX, RY, RZ) Tool Center Point interface designed for intuitive coordinate inspection and real-time positional feedback.
+      </p>
+      <p><code>React</code> <code>TypeScript</code> <code>Robotics UI</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Tools & Stack
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="32" alt="React" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="Node.js" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="32" alt="Python" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="32" alt="C++" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="32" alt="Java" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="32" alt="Docker" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="32" alt="OpenCV" />&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="32" alt="Scikit-Learn" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="32" alt="TensorFlow" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="32" alt="Pandas" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="Figma" />
+</div>
+
+---
+
+### Activity
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=oguzicin&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
